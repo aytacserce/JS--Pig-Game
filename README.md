@@ -1,24 +1,23 @@
 # JS--Pig-Game
 14.06.2022
-. The JavaScript Engine and Runtime
-. Execution Contexts and The Call Stack
-. Scope and The Scope Chain
-. Variable Environment: Hoisting and The TDZ
-. The this Keyword
-. Regular Functions vs. Arrow Functions
-. Primitives vs. Objects (Primitive vs. Reference Types)
-. Destructuring Arrays
-. Destructuring Objects
-. The Spread Operator (...)
-. Rest Pattern and Parameters
-. Short Circuiting (&& and ||)
-. The Nullish Coalescing Operator (??)
-. Logical Assignment Operators
-. Looping Arrays: The for-of Loop
-. Enhanced Object Literals
-. Optional Chaining (?.)
-. Looping Objects: Object Keys, Values, and Entries
-. Sets
-. Maps: Fundamentals
-. Maps: Iteration
-. Working With Strings
+
+---
+
+This is a game with two players where each player rolls a dice and dice values gets added on to reach the desired value (I set it to 20).
+- Once you roll the dice, you can keep your value to guarantee but then it is the other players turn.
+- You can take risk an keep rolling without keeping your points but there is a chance that you can roll 1 and if you roll 1, all your points will be erased and it will be again the other players turn.
+
+---
+
+<img width="600px" src="https://github.com/cptsprrw/JS--Pig-Game/blob/main/Pig-Game-screenshot.png?raw=true" />
+
+---
+
+### :hammer_and_wrench: Languages and Tools Used:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+<img width="600px" src="https://github.com/cptsprrw/JS--Pig-Game/blob/main/Pig-Game-flowchart.png?raw=true" />
