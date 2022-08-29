@@ -20,4 +20,4 @@ This is a game with two players where each player rolls a dice and dice values g
 
 ---
 
-<img width="600px" src="https://github.com/cptsprrw/JS--Pig-Game/blob/main/Pig-Game-flowchart.png?raw=true" />
+<img width="600px" src="https://github.com/cptsprrw/JS--Pig-Game/blob/main/pig-game-flowchart.png?raw=true" />
